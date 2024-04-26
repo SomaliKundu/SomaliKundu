@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently working on **machine learning**
+- 🔭 I’m currently working on **data analysis**
 
 - 🌱 I’m currently learning **advance python**
 
